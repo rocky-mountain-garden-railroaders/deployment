@@ -1,2 +1,1 @@
-# deployment
-Deployment vehicle for rmgr.org
+This repo is purely a deployment vehicle for the `rmgr.org` [website](https://rmgr.org). Please don't use it directly. Use the `rmgr.org` [repo](https://github.com/rocky-mountain-garden-railroaders/rmgr.org) instead.
